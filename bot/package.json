@@ -1,0 +1,12 @@
+{
+  "name": "whatsanuker-bot",
+  "type": "module",
+  "version": "0.1.0",
+  "dependencies": {
+    "whatsapp-web.js": "^1.31.1-alpha",
+    "axios": "^1.6.7"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test node --test"
+  }
+}
