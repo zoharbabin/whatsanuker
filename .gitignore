@@ -1,6 +1,0 @@
-logs/
-.env
-bot/.wwebjs_auth
-__pycache__/
-*.pyc
-node_modules/
